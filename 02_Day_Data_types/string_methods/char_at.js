@@ -1,4 +1,4 @@
-// charAt(): Takes index and it returns the value at that index
+// charAt(): Takes index and it returns the value of that index
 string.charAt(index)
 let string = '30 Days Of JavaScript'
 console.log(string.charAt(0)) // 3
